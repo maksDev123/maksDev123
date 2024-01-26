@@ -2,7 +2,6 @@
 
 
 I am active and inquisitive Machine Learning Engineer, currently excelling as a computer science student with a strong desire to contribute to the IT industry.
-valuable commercial experience.
 
 ✨I am exited about NLP and Responsible AI✨ 
 
