@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+i am active and inquisitive Machine Learning Engineer, currently excelling as a computer science student with a strong desire to contribute to the IT industry.
+valuable commercial experience.
+
+https://www.linkedin.com/in/maksym-buleshnyi/
+
 <!--
 **maksDev123/maksDev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
